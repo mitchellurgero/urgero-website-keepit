@@ -3,7 +3,7 @@ title = "About Me"
 date = "2019-04-01"
 aliases = ["about-us","contact"]
 [ author ]
-  name = "Mitchell Uregro"
+  name = "Mitchell Urgero"
 +++
 
 IT consultant by day, freelance programmer by night. My favorite hobbies are programming, web design, and tinkering with Raspberry Pi’s.

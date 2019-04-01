@@ -266,5 +266,23 @@ New-MailboxExportRequest -Mailbox &lt;span style=&#34;color:#e6db74&#34;&gt;&amp
 </description>
     </item>
     
+    <item>
+      <title>Donate</title>
+      <link>https://urgero.org/donations/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://urgero.org/donations/</guid>
+      <description>&lt;p&gt;You can use one of the following options to donate! Thank you for your consideration!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=KRSG77G6CUEH4&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;PayPal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+My website is proudly hosted by &lt;a href=&#34;https://m.do.co/c/93604d2ec646&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;DigitalOcean&lt;/a&gt; . Use this link to get &lt;strong&gt;$100 in credits&lt;/strong&gt; over the first 60 days of registering a new account, if you spend $25.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

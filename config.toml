@@ -35,6 +35,11 @@ disqusShortname = "urgeroorg"
     weight = 2
 
   [[menu.main]]
+    name = "Donate"
+    url = "/donate/"
+    weight = 3
+
+  [[menu.main]]
     name = "About Me"
     url = "/about"
     weight = 4
