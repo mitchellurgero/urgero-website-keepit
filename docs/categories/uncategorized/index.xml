@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Mitchell Urgero</title>
+    <link>https://urgero.org/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on Mitchell Urgero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 11:49:30 -0500</lastBuildDate>
+    
+	<atom:link href="https://urgero.org/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android Debug Bridge Graphical User Interface</title>
+      <link>https://urgero.org/projects/adbgui/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/adbgui/</guid>
+      <description>ADB WebUI (GUI) written in NodeJS.
+GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Bash Scripts</title>
+      <link>https://urgero.org/projects/bash-scripts/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/bash-scripts/</guid>
+      <description>Collection of bash scripts for various situations
+GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Cloudron Projects</title>
+      <link>https://urgero.org/projects/cloudron-projects/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/cloudron-projects/</guid>
+      <description>This is a list of Cloudron Apps I maintain. These are not affiliated with Cloudron. However I use them myself so at the very least they work. I cannot guarantee the security of these apps either. If you notice any issues with the below, please open an issue on their respective GitHub links.
+List of available projects Cloudron Visual Studio Code    Option Value     Description Visual Studio Code as a webapp.</description>
+    </item>
+    
+    <item>
+      <title>Exchange Mailbox Export</title>
+      <link>https://urgero.org/projects/exchange-mailbox-export/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/exchange-mailbox-export/</guid>
+      <description>Project Page
+After much searching around and trying to get 2013 / 2016 exchange to properly export to PST any mailbox and items that included my search terms.
+On the project page you will find a PowerShell script that is easily configurable. This script will allow you to specify user mailbox&amp;rsquo;s to search, where to put the found items, and where to export the new PST to. The PST will contain the emails, in a folder, for each mailbox.</description>
+    </item>
+    
+    <item>
+      <title>JSONDatabase</title>
+      <link>https://urgero.org/projects/jsondatabase/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/jsondatabase/</guid>
+      <description>JSON, Flat-File database system written in PHP.
+GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Open Raspberry Pi Dashboard</title>
+      <link>https://urgero.org/projects/openrsd/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/openrsd/</guid>
+      <description>PHP5/PHP7 script to control a Raspberry Pi Remotely.
+GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>TinySocial</title>
+      <link>https://urgero.org/projects/tinysocial/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/tinysocial/</guid>
+      <description>Flat-file social network using JSONDatabase as the backend.
+GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Windows Antivirus Class for C#</title>
+      <link>https://urgero.org/projects/windows-antivirus-class/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/windows-antivirus-class/</guid>
+      <description>C# Class to interface with Windows Antivirus using WMI.
+GitHub Link</description>
+    </item>
+    
+  </channel>
+</rss>

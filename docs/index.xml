@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitchell Urgero on Mitchell Urgero</title>
+    <link>https://urgero.org/</link>
+    <description>Recent content in Mitchell Urgero on Mitchell Urgero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 11:49:30 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android Debug Bridge Graphical User Interface</title>
+      <link>https://urgero.org/projects/adbgui/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/adbgui/</guid>
+      <description>&lt;p&gt;ADB WebUI (GUI) written in NodeJS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mitchellurgero/ADBWUI&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bash Scripts</title>
+      <link>https://urgero.org/projects/bash-scripts/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/bash-scripts/</guid>
+      <description>&lt;p&gt;Collection of bash scripts for various situations&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mitchellurgero/BashScripts&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudron Projects</title>
+      <link>https://urgero.org/projects/cloudron-projects/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/cloudron-projects/</guid>
+      <description>
+
+&lt;p&gt;This is a list of Cloudron Apps I maintain. These are not affiliated with Cloudron. However I use them myself so at the very least they work.
+I cannot guarantee the security of these apps either. If you notice any issues with the below, please open an issue on their respective GitHub links.&lt;/p&gt;
+
+&lt;h2 id=&#34;list-of-available-projects&#34;&gt;List of available projects&lt;/h2&gt;
+
+&lt;h3 id=&#34;cloudron-visual-studio-code&#34;&gt;Cloudron Visual Studio Code&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Option&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Visual Studio Code as a webapp.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Link&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/mitchellurgero/cloudron-vscode&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;cloudron-codiad&#34;&gt;Cloudron Codiad&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Option&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Codiad Cloudron app package.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Link&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/mitchellurgero/cloudron-codiad&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;cloudron-github-pages-gh-pages&#34;&gt;Cloudron GitHub Pages (gh-pages)&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Option&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Host GitHub Page sites on your own server. This is a modified Cloudron app built of the Official version.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Link&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/mitchellurgero/cloudron-githubpages&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exchange Mailbox Export</title>
+      <link>https://urgero.org/projects/exchange-mailbox-export/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/exchange-mailbox-export/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mitchellurgero/45b52fd044a67d9a768b507a7fa78a6d&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Project Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After much searching around and trying to get 2013 / 2016 exchange to properly export to PST any mailbox and items that included my search terms.&lt;/p&gt;
+
+&lt;p&gt;On the project page you will find a PowerShell script that is easily configurable. This script will allow you to specify user mailbox&amp;rsquo;s to search, where to put the found items, and where to export the new PST to. The PST will contain the emails, in a folder, for each mailbox.&lt;/p&gt;
+
+&lt;p&gt;In the script, you will find 5 variables. These variables will assist you in getting that sweet sweet PST file for viewing search results.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;$idents&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Idents variable is where you will put the username&amp;rsquo;s for each mailbox. For exchange &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt; that will be formatted like: &lt;code&gt;&amp;quot;user1&amp;quot;,&amp;quot;user2&amp;quot;,&amp;quot;user3&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;$targetMailbox&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TargetMailbox is the mailbox to save the search results (found mail items) to. This can be your mailbox, or a new one you can create in the Exchange Control Panel.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;$folderName&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FolderName is the folder you want to save to in the &lt;code&gt;$targetMailbox&lt;/code&gt;. I enjoy formatting this like &lt;code&gt;Search 06/06/2018&lt;/code&gt;.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;$searchTerm&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SearchTerm is the search phrase you are looking for in emails. This is compatible with &lt;a href=&#34;https://support.office.com/en-us/article/learn-to-narrow-your-search-criteria-for-better-searches-in-outlook-d824d1e9-a255-4c8a-8553-276fb895a8da&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Outlook search syntax&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;$resultPath&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ResultPath is the UNC path to save the PST to. This is formatted as &lt;code&gt;\\SERVERNAME\SHARENAME\FILENAME.PST&lt;/code&gt; It &lt;em&gt;MUST&lt;/em&gt; be a UNC Fileshare.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you have the above variables set, you will get something that looks like:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;Add-PSSnapin Microsoft.Exchange.Management.PowerShell.SnapIn;
+
+$idents        = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;user1&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;user2&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;user3&amp;#34;&lt;/span&gt;
+$targetMailbox = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;user4&amp;#34;&lt;/span&gt;
+$folderName    = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Search 01/01/2018&amp;#34;&lt;/span&gt;
+$searchTerm    = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Phrase to search for&amp;#34;&lt;/span&gt;
+$resultPath    = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;\\SRV-EX1\Private\PSTOUT\search01012018.pst&amp;#34;&lt;/span&gt;
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;foreach&lt;/span&gt;($i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; $idents){
+    Write-Host &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Searching $i&amp;#34;&lt;/span&gt;
+    search-mailbox -Identity &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;$i&amp;#34;&lt;/span&gt; -searchquery &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;$searchTerm&amp;#34;&lt;/span&gt; -targetmailbox &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;$targetMailbox&amp;#34;&lt;/span&gt; -TargetFolder &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;$folderName&amp;#34;&lt;/span&gt; -loglevel full
+}
+
+New-MailboxExportRequest -Mailbox &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;$targetMailbox&amp;#34;&lt;/span&gt; -IncludeFolders &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;$folderName&amp;#34;&lt;/span&gt; -FilePath &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;$resultPath&amp;#34;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Then just run the script, and you will see a new PST in the ResultPath you set!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JSONDatabase</title>
+      <link>https://urgero.org/projects/jsondatabase/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/jsondatabase/</guid>
+      <description>&lt;p&gt;JSON, Flat-File database system written in PHP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mitchellurgero/jsondatabase&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Raspberry Pi Dashboard</title>
+      <link>https://urgero.org/projects/openrsd/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/openrsd/</guid>
+      <description>&lt;p&gt;PHP5/PHP7 script to control a Raspberry Pi Remotely.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mitchellurgero/openrsd&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinySocial</title>
+      <link>https://urgero.org/projects/tinysocial/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/tinysocial/</guid>
+      <description>&lt;p&gt;Flat-file social network using JSONDatabase as the backend.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mitchellurgero/tinysocial&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows Antivirus Class for C#</title>
+      <link>https://urgero.org/projects/windows-antivirus-class/</link>
+      <pubDate>Mon, 01 Apr 2019 11:49:30 -0500</pubDate>
+      
+      <guid>https://urgero.org/projects/windows-antivirus-class/</guid>
+      <description>&lt;p&gt;C# Class to interface with Windows Antivirus using WMI.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mitchellurgero/windowsantivirus&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Website, Cleaner Finish!</title>
+      <link>https://urgero.org/2019/04/new-website-cleaner-finish/</link>
+      <pubDate>Mon, 01 Apr 2019 11:41:46 -0500</pubDate>
+      
+      <guid>https://urgero.org/2019/04/new-website-cleaner-finish/</guid>
+      <description>&lt;p&gt;New website, still built on hugo, but new theme. More minimal!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://urgero.org/about/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://urgero.org/about/</guid>
+      <description>
+
+&lt;p&gt;IT consultant by day, freelance programmer by night. My favorite hobbies are programming, web design, and tinkering with Raspberry Pi’s.&lt;/p&gt;
+
+&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;C#, JS, Golang, PHP, etc.&lt;/li&gt;
+&lt;li&gt;FOSS/FLOSS, Open Web, etc.&lt;/li&gt;
+&lt;li&gt;Information Technology&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
