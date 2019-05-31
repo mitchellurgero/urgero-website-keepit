@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 11:49:30 -0500</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://urgero.org/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Android Debug Bridge Graphical User Interface</title>
@@ -247,7 +247,7 @@ New-MailboxExportRequest -Mailbox &lt;span style=&#34;color:#e6db74&#34;&gt;&amp
     </item>
     
     <item>
-      <title>About Me</title>
+      <title>- About Me -</title>
       <link>https://urgero.org/about/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -267,7 +267,7 @@ New-MailboxExportRequest -Mailbox &lt;span style=&#34;color:#e6db74&#34;&gt;&amp
     </item>
     
     <item>
-      <title>Donate</title>
+      <title>- Donate -</title>
       <link>https://urgero.org/donations/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       

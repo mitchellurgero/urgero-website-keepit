@@ -1,5 +1,5 @@
 +++
-title = "Donate"
+title = "- Donate -"
 date = "2019-04-01"
 aliases = ["donations","donate"]
 [ author ]
