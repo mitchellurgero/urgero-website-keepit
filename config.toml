@@ -47,7 +47,7 @@ disqusShortname = "urgeroorg"
 [params]
     since = 2013
     author = "Mitchell Urgero"               # Author's name
-    subtitle = "Professional Nerd. Frelance Programmer."       # Subtitle
+    subtitle = "Professional Nerd. Freelance Programmer."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
